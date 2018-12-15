@@ -1,10 +1,10 @@
          + Version 0.0.1
 
-Start: 12/15/2018, 4:47 AM
+         Start: 12/15/2018, 4:47 AM
 
-Goal(s): - Main script set up
+         Goal(s): - Main script set up
 
-Completed: 12/15/2018, 4:57 AM
+         Completed: 12/15/2018, 4:57 AM
 
          + Version 0.0.2
 
